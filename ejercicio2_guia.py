@@ -1,7 +1,7 @@
 alumno = []
 edad = []
 loop_ok = True
-
+contar = 2
 alumno_aux = ""
 edad_aux = 0
 
